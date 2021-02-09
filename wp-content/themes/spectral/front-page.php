@@ -108,7 +108,7 @@ get_header();
         </header>
         <ul class="actions stacked">
             <li><a href="#" class="button fit primary">Activate</a></li>
-            <li><a href="#" class="button fit">Learn More</a></li>
+            <li><a href="#" class="button fit c-white">Learn More</a></li>
         </ul>
     </div>
 </section>
